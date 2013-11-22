@@ -1,5 +1,5 @@
 
-package fr.firat.examples.jaxrswebapp.services;
+package im.firat.examples.jaxrswebapp;
 
 
 import javax.ws.rs.GET;
