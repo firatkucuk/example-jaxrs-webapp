@@ -12,3 +12,21 @@ After running you can type in your browser's address bar:
 ```
 http://localhost:8080/example-jaxrs-webapp/hello
 ```
+
+or
+
+```
+http://localhost:8080/example-jaxrs-webapp/hello/FIRAT
+```
+
+or
+
+```
+http://localhost:8080/example-jaxrs-webapp/multiply/6/12
+```
+
+You can run tests using following commands
+
+```
+mvn test
+```
