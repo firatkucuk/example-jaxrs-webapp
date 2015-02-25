@@ -1,3 +1,5 @@
+package io.firat.examples.jaxrswebapp;
+
 import io.firat.examples.jaxrswebapp.rs.HelloWorld;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.glassfish.jersey.test.JerseyTest;
