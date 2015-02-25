@@ -43,7 +43,7 @@ public final class HelloWorld {
     @Produces(MediaType.TEXT_PLAIN)
     public String sayHello(@PathParam("name") final String name) {
 
-        return "hello " + name;
+        return "Hello " + name + "!";
     }
 
 
